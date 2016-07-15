@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Working Demos\EventBusSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_c30e376a8a37b42530721aa3276156097e39d8df\classes.dex" />
+    </item>
+    <item
+        jar="D:\Working Demos\EventBusSample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9ef538838f1d09406c9dd7d9845dba3690860da5">
+        <dex dex="D:\Working Demos\EventBusSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4fb53f410914a111f18d44afe19e5c6fc5edc098\classes.dex" />
+    </item>
+    <item
+        jar="D:\Working Demos\EventBusSample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8e431eb74ff9ff8e3fc7e27a3847e6f5951b63c5">
+        <dex dex="D:\Working Demos\EventBusSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_148856f731343bff4eb247be11f84252c29dfa29\classes.dex" />
+    </item>
+    <item
+        jar="D:\Working Demos\EventBusSample\app\libs\eventbus-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="D:\Working Demos\EventBusSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\eventbus-2.4.0_d1d124bbfaf9d378ec7b497e79eb276f2915b775\classes.dex" />
+    </item>
+
+</items>
